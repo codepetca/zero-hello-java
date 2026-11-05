@@ -1,5 +1,7 @@
 # Hello, Java
 
+[![Built with Zero](https://img.shields.io/badge/Built%20with-Zero-6C5CE7)](https://zero.codepet.ca)
+
 A small interface with a name field, greeting and reset.
 
 This is a complete editable Zero project.
